@@ -33,7 +33,7 @@ Live-Katalog: [herocreative.de/shop](https://herocreative.de/shop)
 | <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/7fc442a1e5a3ccb5821fec316617fd8417f00731.png" width="56" alt="HCS HUD"> | **[HCS HUD](https://herocreative.de/shop/hcs_hud)** (`HCS_hud`)<br>[Docs](https://herocreative.de/docs/scripts/hud/installation) | HUD mit Status, Geld, Job, Speedo, Voice, Chat, Announce, Teamchat, Notify, Help-Notify, Progressbar und Spieler-Settings. | ESX, QBCore, Qbox, Standalone | 29,99 € |
 | <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a5536ff12207c66c204e30fd0e6ed5a796f91076.png" width="56" alt="HCS Invite"> | **[HCS Invite](https://herocreative.de/shop/hcs_invite)** (`HCS_invite`)<br>[Docs](https://herocreative.de/docs/scripts/invite/installation) | Job-Vertrag und Frak-Invite. Accept setzt den Job über Framework oder Hook. Cooldown, Timeout und Logos serverseitig. | ESX, QBCore, Qbox, Standalone | kostenlos |
 
-Gemeinsame Basis der HCS-Resources: [`HCS_lib`](https://herocreative.de/docs/scripts/lib/installation) (Bridge, Notify, Locale, Callback). Datenbank, wo nötig: oxmysql.
+Gemeinsame lib der HCS-Resources: [`HCS_lib`](https://herocreative.de/docs/scripts/lib/installation) (Bridge, Notify, Locale, Callback). Datenbank, wo nötig: oxmysql.
 
 ## HCS Unlimited
 
@@ -59,7 +59,6 @@ Fragen zur Installation und Nutzung: Ticket auf [Discord](https://discord.herocr
 
 - Website: [herocreative.de](https://herocreative.de)
 - Discord: [discord.herocreative.de](https://discord.herocreative.de)
-- Mail: [info@herocreative.de](mailto:info@herocreative.de)
 - FiveM: [fivem.herocreative.de](https://fivem.herocreative.de)
 - E-Mail: [info@herocreative.de](mailto:info@herocreative.de)
 - TikTok: [@herocreativede](https://tiktok.com/@herocreativede)
